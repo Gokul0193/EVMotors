@@ -41,8 +41,8 @@ const Signup = () => {
   
   return (
     <div className="flex flex-col gap-5 bg-white w-[400px] px-8 rounded-2xl shadow-2xl py-10">
-      <h2 className="text-3xl font-bold text-center">
-        <span className="text-brand">Ev</span>motors
+      <h2 className="text-3xl font-bold text-center font-graphic">
+        <span className="text-brand ">EV</span>Motors
       </h2>
 
       <form className="flex flex-col gap-5 items-center justify-center" onSubmit={handleSignup}>
